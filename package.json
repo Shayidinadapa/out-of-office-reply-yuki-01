@@ -1,0 +1,1 @@
+{"description":"The funniest AI out-of-office auto-reply: one line, under 160 characters, in the voice of an AI agent on vacation.","engines":{"node":">=22.18"},"license":"MIT","name":"out-of-office-reply-yuki-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
